@@ -271,9 +271,9 @@ const cn = {
 
     Access: {
       AccessCode: {
-        Title: "访问密码",
-        SubTitle: "管理员已开启加密访问",
-        Placeholder: "请输入访问密码",
+        Title: "功能开发中...",
+        SubTitle: "功能开发中...",
+        Placeholder: "功能开发中...",
       },
       CustomEndpoint: {
         Title: "自定义接口",
